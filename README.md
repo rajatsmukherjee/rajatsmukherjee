@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: A shrimp's heart is in its head.
 - :dart: Checkout my open-source stats from [rsm-23](https://github.com/rsm-23).
 
-![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rsm-23)  <!--(https://github.com/rsm-23/github-readme-stats)-->
+![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rsm-23&theme=tokyonight&show_icons=true)  <!--(https://github.com/rsm-23/github-readme-stats)-->
