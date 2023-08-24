@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on `Conversational Insights`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A shrimp's heart is in its head.
-- :dart: Checkout my stats.
+- :dart: Checkout my open-source stats from [rsm-23](https://github.com/rsm-23).
 
-![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatsmukherjee)  <!--(https://github.com/rajatsmukherjee/github-readme-stats)-->
+![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rsm-23)  <!--(https://github.com/rsm-23/github-readme-stats)-->
