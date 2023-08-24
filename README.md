@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: A shrimp's heart is in its head.
 - :dart: Checkout my stats.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsmukherjee)  ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatsmukherjee)  <!--(https://github.com/rajatsmukherjee/github-readme-stats)-->
+![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatsmukherjee)  <!--(https://github.com/rajatsmukherjee/github-readme-stats)-->
